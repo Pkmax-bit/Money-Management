@@ -5,6 +5,30 @@
       "PackagePath": "staticwebassets\\Money Management.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 NĂM 3\\Money Management\\wwwroot\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 NĂM 3\\Money Management\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 NĂM 3\\Money Management\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 NĂM 3\\Money Management\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 NĂM 3\\Money Management\\wwwroot\\css\\adminlte.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 NĂM 3\\Money Management\\wwwroot\\css\\adminlte.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.rtl.min.css.map"
+    },
+    {
       "Id": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 NĂM 3\\Money Management\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
