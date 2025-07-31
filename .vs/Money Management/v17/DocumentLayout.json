@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|c:\\users\\adminstrator\\desktop\\hki 2 n\u0103m 3\\money management\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|c:\\users\\adminstrator\\desktop\\hki 2 n\u0103m 3\\money management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|c:\\users\\adminstrator\\desktop\\hki 2 n\u0103m 3\\money management\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|c:\\users\\adminstrator\\desktop\\hki 2 n\u0103m 3\\money management\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +25,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|c:\\users\\adminstrator\\desktop\\hki 2 n\u0103m 3\\money management\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|c:\\users\\adminstrator\\desktop\\hki 2 n\u0103m 3\\money management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|c:\\users\\adminstrator\\desktop\\hki 2 n\u0103m 3\\money management\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\data\\moneymanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,32 +82,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T15:58:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Views\\Account\\Register.cshtml*",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml*",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAuwLIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T15:57:41.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAkwJ0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-31T15:57:12.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAuwMgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:56:38.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:52:42.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T15:51:32.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvxcAAAADAAAA",
+              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDAAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-31T07:01:20.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-31T05:44:42.333Z"
+              "WhenOpened": "2025-07-31T05:44:42.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MoneyManagementContext.cs",
               "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Data\\MoneyManagementContext.cs",
               "RelativeDocumentMoniker": "Data\\MoneyManagementContext.cs",
@@ -91,19 +194,21 @@
               "RelativeToolTip": "Data\\MoneyManagementContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T05:47:36.813Z"
+              "WhenOpened": "2025-07-31T05:47:36.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAUwCEAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwC4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T05:45:46.882Z"
+              "WhenOpened": "2025-07-31T05:45:46.882Z",
+              "EditorCaption": ""
             }
           ]
         },

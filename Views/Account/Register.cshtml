@@ -1,0 +1,179 @@
+﻿@model dynamic
+@{
+    ViewData["Title"] = "Đăng Ký";
+}
+
+<style>
+    body {
+        background: linear-gradient(135deg, #c8e6c9, #a5d6a7);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .register-container {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+    }
+
+    .register-card {
+        background: #ffffff;
+        border-radius: 15px;
+        box-shadow: 0 8px 30px rgba(0, 128, 0, 0.1);
+        padding: 2rem;
+        max-width: 450px;
+        width: 100%;
+        transition: transform 0.3s ease;
+    }
+
+    .register-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .card-header {
+        background: #4caf50;
+        color: white;
+        font-weight: 600;
+        text-align: center;
+        padding: 1.5rem;
+        border-radius: 12px 12px 0 0;
+        font-size: 1.5rem;
+    }
+
+    .form-group {
+        position: relative;
+        margin-bottom: 1.5rem;
+    }
+
+    .form-group label {
+        color: #2e7d32;
+        font-weight: 500;
+        margin-bottom: 0.5rem;
+        display: block;
+    }
+
+    .form-control {
+        border: 2px solid #81c784;
+        border-radius: 8px;
+        padding: 0.75rem 1rem;
+        transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .form-control:focus {
+        border-color: #2e7d32;
+        box-shadow: 0 0 8px rgba(46, 125, 50, 0.3);
+        outline: none;
+    }
+
+    .input-icon {
+        position: absolute;
+        top: 50%;
+        left: 10px;
+        transform: translateY(-10%);
+        color: #4caf50;
+        font-size: 1.2rem;
+    }
+
+    .form-control.has-icon {
+        padding-left: 2.5rem;
+    }
+
+    .btn-primary {
+        background: #388e3c;
+        border: none;
+        border-radius: 8px;
+        padding: 0.75rem 2rem;
+        font-size: 1.1rem;
+        font-weight: 500;
+        transition: background 0.3s ease, transform 0.2s ease;
+        width: 100%;
+    }
+
+    .btn-primary:hover {
+        background: #2e7d32;
+        transform: translateY(-2px);
+    }
+
+    .text-danger {
+        font-size: 0.9rem;
+        margin-top: 0.5rem;
+    }
+
+    .money-icon {
+        text-align: center;
+        margin-bottom: 1.5rem;
+    }
+
+    .money-icon i {
+        font-size: 3rem;
+        color: #4caf50;
+        opacity: 0.8;
+    }
+</style>
+
+<div class="register-container">
+    <div class="register-card">
+        <div class="card-header">
+            Đăng Ký
+        </div>
+        <div class="card-body">
+            <div class="money-icon">
+                <i class="bi bi-piggy-bank"></i>
+            </div>
+            <form asp-action="Register" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label for="hoten">Họ và Tên</label>
+                    <div class="position-relative">
+                        <i class="bi bi-person input-icon"></i>
+                        <input type="text" name="hoten" class="form-control has-icon" required />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <div class="position-relative">
+                        <i class="bi bi-envelope input-icon"></i>
+                        <input type="email" name="email" class="form-control has-icon" required />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="sdt">Số Điện Thoại</label>
+                    <div class="position-relative">
+                        <i class="bi bi-telephone input-icon"></i>
+                        <input type="text" name="sdt" class="form-control has-icon" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="password">Mật Khẩu</label>
+                    <div class="position-relative">
+                        <i class="bi bi-lock input-icon"></i>
+                        <input type="password" name="password" class="form-control has-icon" required />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="confirmPassword">Xác Nhận Mật Khẩu</label>
+                    <div class="position-relative">
+                        <i class="bi bi-lock-fill input-icon"></i>
+                        <input type="password" name="confirmPassword" class="form-control has-icon" required />
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">Đăng Ký</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+        <script>
+            // Optional: Add animation for form inputs
+            document.querySelectorAll('.form-control').forEach(input => {
+                input.addEventListener('focus', function () {
+                    this.parentElement.querySelector('.input-icon').style.color = '#2e7d32';
+                });
+                input.addEventListener('blur', function () {
+                    this.parentElement.querySelector('.input-icon').style.color = '#4caf50';
+                });
+            });
+        </script>
+}

@@ -167,3 +167,10 @@ C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\obj\Debug\net8.0\ref
 C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\obj\Debug\net8.0\Money Management.pdb
 C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\obj\Debug\net8.0\Money Management.genruntimeconfig.cache
 C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\obj\Debug\net8.0\ref\Money Management.dll
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\Money Management\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

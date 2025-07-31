@@ -1,0 +1,26 @@
+﻿@model dynamic
+@{
+    ViewData["Title"] = "Verify Email";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">Verify Your Email</div>
+                <div class="card-body">
+                    <p>Please enter the verification code sent to @ViewBag.Email</p>
+                    <form asp-action="VerifyEmail" method="post">
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        <input type="hidden" name="email" value="@ViewBag.Email" />
+                        <div class="form-group mb-3">
+                            <label for="code">Verification Code</label>
+                            <input type="text" name="code" class="form-control" required />
+                        </div>
+                        <button type="submit" class="btn btn-primary">Verify</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
