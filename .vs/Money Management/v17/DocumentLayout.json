@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|c:\\users\\adminstrator\\desktop\\hki 2 n\u0103m 3\\money management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|c:\\users\\adminstrator\\desktop\\hki 2 n\u0103m 3\\money management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F090C8D-6D29-4E5A-A459-B84DFD5AE1B0}|Money Management.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +39,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:45:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMINSTRATOR\\Desktop\\HKI 2 N\u0102M 3\\Money Management\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAADJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T05:44:42.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
